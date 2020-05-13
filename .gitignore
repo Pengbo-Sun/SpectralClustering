@@ -1,0 +1,7 @@
+**/build
+**/*.txt~
+**/.vscode
+.project
+**/cmake-build-debug
+.idea
+**/.idea
